@@ -1,1 +1,2 @@
 # BirdStrickeReport
+The Bird Strike Report application is a Flutter-based mobile application developed to help the Pakistan Airport Authority (PAA) record, manage, search, and analyze bird strike incidents occurring at airports across Pakistan. The application communicates with an ASP.NET Core Web API and stores all information in Microsoft SQL Server. It allows airport personnel to submit bird strike reports, search previous incidents, filter records, and visualize incident statistics on a Pakistan airport map.
